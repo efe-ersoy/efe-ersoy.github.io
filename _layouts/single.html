@@ -45,7 +45,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        <!-- {{ content }} -->
+        {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Article URL</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
