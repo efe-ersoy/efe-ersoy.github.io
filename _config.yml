@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Efe Ersoy"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "PhD Student"
   location         : "Basel, CH"
   employer         : "University of Basel / PSI"
