@@ -26,21 +26,21 @@ author:
   name             : "Efe Ersoy"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Basel, CH"
+  employer         : "University of Basel / Paul Scherrer Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "efe.ersoy@unibas.ch" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=mOFSeq0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-4930-5038"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
